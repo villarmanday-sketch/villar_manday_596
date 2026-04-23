@@ -1,0 +1,20 @@
+Step 1 — Open GitHub Desktop
+File → Add Local Repository
+→ select your flutter_live_chat folder
+→ click Add Repository
+
+Step 2 — Commit
+1. See all files listed on left side
+2. Type Final submission in Summary box at bottom
+3. Click Commit to main
+
+Step 3 — Publish
+1. Click Publish repository at top
+2. Uncheck Keep this code private
+3. Click Publish repository
+
+Step 4 — Get your URL
+Repository → View on GitHub
+Copy URL from browser
+
+Step 5 — Submit URL on Canvas 🎓
